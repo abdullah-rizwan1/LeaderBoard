@@ -1,0 +1,29 @@
+.leaderBoard {
+    display: flex;
+    flex-direction: column;
+}
+
+.team {
+    width: 100vw;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+header {
+    width: 100vw;
+}
+
+ul {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+li {
+    font-size: 30px;
+    list-style-type: none;
+}

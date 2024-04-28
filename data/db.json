@@ -1,0 +1,39 @@
+{
+    "championship": [
+        {
+            "team": "The Avengers",
+            "games": 29,
+            "score": 515678
+        },
+        {
+            "team": "Skale",
+            "games": 29,
+            "score": 509873
+        },
+        {
+            "team": "One Million Bugs",
+            "games": 27,
+            "score": 496677
+        },
+        {
+            "team": "The Musketers",
+            "games": 29,
+            "score": 4133249
+        },
+        {
+            "team": "Bugs Killer",
+            "games": 29,
+            "score": 356841
+        },
+        {
+            "team": "Foo Fighters",
+            "games": 25,
+            "score": 2955667
+        },
+        {
+            "team": "The Ultimate",
+            "games": 25,
+            "score": 2599851
+        }
+    ]
+}
